@@ -1,2 +1,2 @@
 # Jadwal-Pelajaran
-Membuat jadwal pelajaran menggunakan tabel dan menerapkan colspan dan rowspan 
+Membuat jadwal pelajaran menggunakan tabel menerapkan colspan dan rowspan 
